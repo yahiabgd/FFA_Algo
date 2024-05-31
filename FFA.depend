@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1705570522 source:c:\users\yahia\onedrive\bureau\uha\s5\ai\ffa\ffa.cpp
+	"FFA.h"
+	<random>
+
+1704322962 c:\users\yahia\onedrive\bureau\uha\s5\ai\ffa\ffa.h
+	<string>
+	<iostream>
+	<cmath>
+	<vector>
+	<functional>
+	<algorithm>
+	<cstdint>
+	<iomanip>
+	<iostream>
+
+1705536641 source:c:\users\yahia\onedrive\bureau\uha\s5\ai\ffa\main.cpp
+	"FFA.h"
+	"FFA_v2.h"
+	"Timer.h"
+
+1705535274 c:\users\yahia\onedrive\bureau\uha\s5\ai\ffa\ffa_v2.h
+	<iostream>
+	<vector>
+	<algorithm>
+	<cmath>
+	<random>
+	<chrono>
+	<functional>
+
+1704325032 c:\users\yahia\onedrive\bureau\uha\s5\ai\ffa\timer.h
+	<chrono>
+	<iostream>
+
